@@ -1,0 +1,28 @@
+name: loveislovephotos
+favicon: null
+layout_spectrum: 0.8603159177582711
+typography_spectrum: 0.3786015259101987
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.4173085445072502
+  lightness: 0.3802932028193027
+  saturation: 0.9644048544578254
+  rhythmicContrast: 0.609973403159529
+purpose: []
